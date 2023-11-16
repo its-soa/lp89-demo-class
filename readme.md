@@ -1,14 +1,14 @@
-![banner](./banner.png)
+<!-- ![banner](./banner.png) -->
 
 ## HTML CSS Resume
 
 Simple Resume built in HTML CSS only!
 
-**Live Preview: [https://html-css-resume.surge.sh/](https://html-css-resume.surge.sh/)**
-YouTube Tutorial: [https://youtu.be/FHb9JobDs2o][yt-video]
+<!-- **Live Preview: [https://html-css-resume.surge.sh/](https://html-css-resume.surge.sh/)**
+YouTube Tutorial: [https://youtu.be/FHb9JobDs2o][yt-video] -->
 
 ---
-
+<!-- 
 ### Made with ❤️ by [Shaif Arfan][arfan-ig]
 
 Like my works and want to support me?
@@ -41,4 +41,4 @@ Happy Coding! ✨🚀
 [wc-projects]: https://github.com/ShaifArfan/wc-project-tutorials
 [wc-fb-group]: https://www.facebook.com/groups/webcifar
 [buymeacoffee]: https://www.buymeacoffee.com/shaifarfan08
-[yt-video]: https://youtu.be/FHb9JobDs2o
+[yt-video]: https://youtu.be/FHb9JobDs2o -->
